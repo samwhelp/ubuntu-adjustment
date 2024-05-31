@@ -9,6 +9,8 @@
 | [~/.config/feathernotes/fn.conf](./asset/overlay/etc/skel/.config/feathernotes/fn.conf) |
 
 
+
+
 ## Ubuntu Package
 
 | Ubuntu Package |

@@ -11,6 +11,8 @@
 | [~/.config/featherpad/fp_light_syntax_colors.conf](./asset/overlay/etc/skel/.config/featherpad/fp_light_syntax_colors.conf) |
 
 
+
+
 ## Ubuntu Package
 
 | Ubuntu Package |

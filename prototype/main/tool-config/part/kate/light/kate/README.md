@@ -27,43 +27,90 @@
 | [kate](https://packages.debian.org/stable/kate) |
 
 
-## Howto
+
+
+## Ubuntu Package
+
+| Ubuntu Package |
+| --- |
+| [kate](https://packages.ubuntu.com/noble/kate) |
+
+
+
+
+## Usage
 
 
 ### install
 
+run
+
 ``` sh
-$ ./install.sh
+./install.sh
 ```
 
-or
+or run
 
 ``` sh
-$ make install
+make install
 ```
 
 
 ### package-install
 
+run
+
 ``` sh
-$ ./package-install.sh
+./package-install.sh
 ```
 
-or
+or run
 
 ``` sh
-$ make package-install
+make package-install
+```
+
+
+### asset-install
+
+run
+
+``` sh
+./asset-install.sh
+```
+
+or run
+
+``` sh
+make asset-install
+```
+
+
+### prototype-install
+
+run
+
+``` sh
+./prototype-install.sh
+```
+
+or run
+
+``` sh
+make prototype-install
 ```
 
 
 ### config-install
 
+run
+
 ``` sh
-$ ./config-install.sh
+./config-install.sh
 ```
 
-or
+or run
 
 ``` sh
-$ make config-install
+make config-install
 ```
