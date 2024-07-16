@@ -22,6 +22,12 @@
 ## sudo dnf install python3-github
 ## ```
 ##
+## > for ubuntu
+##
+## ``` sh
+## sudo apt-get install python3-github
+## ```
+##
 ## ## Usage
 ##
 ## ``` sh
