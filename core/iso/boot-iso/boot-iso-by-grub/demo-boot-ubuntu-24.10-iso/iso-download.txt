@@ -5,5 +5,5 @@ https://cdimage.ubuntu.com/xubuntu/releases/24.10/release/xubuntu-24.10-desktop-
 https://cdimage.ubuntu.com/ubuntu-mate/releases/24.10/release/ubuntu-mate-24.10-desktop-amd64.iso
 https://cdimage.ubuntu.com/ubuntucinnamon/releases/24.10/release/ubuntucinnamon-24.10-desktop-amd64.iso
 https://cdimage.ubuntu.com/ubuntu-budgie/releases/24.10/release/ubuntu-budgie-24.10-desktop-amd64.iso
-https://cdimage.ubuntu.com/ubuntustudio/releases/24.10/release/ubuntustudio-24.10-dvd-amd64.iso
+https://cdimage.ubuntu.com/ubuntustudio/releases/24.10/release/ubuntustudio-24.10-desktop-amd64.iso
 https://releases.ubuntu.com/24.10/ubuntu-24.10-live-server-amd64.iso
