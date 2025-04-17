@@ -1,0 +1,9 @@
+https://releases.ubuntu.com/25.04/ubuntu-25.04-desktop-amd64.iso
+https://cdimage.ubuntu.com/kubuntu/releases/25.04/release/kubuntu-25.04-desktop-amd64.iso
+https://cdimage.ubuntu.com/lubuntu/releases/25.04/release/lubuntu-25.04-desktop-amd64.iso
+https://cdimage.ubuntu.com/xubuntu/releases/25.04/release/xubuntu-25.04-desktop-amd64.iso
+https://cdimage.ubuntu.com/ubuntu-mate/releases/25.04/release/ubuntu-mate-25.04-desktop-amd64.iso
+https://cdimage.ubuntu.com/ubuntucinnamon/releases/25.04/release/ubuntucinnamon-25.04-desktop-amd64.iso
+https://cdimage.ubuntu.com/ubuntu-budgie/releases/25.04/release/ubuntu-budgie-25.04-desktop-amd64.iso
+https://cdimage.ubuntu.com/ubuntustudio/releases/25.04/release/ubuntustudio-25.04-desktop-amd64.iso
+https://releases.ubuntu.com/25.04/ubuntu-25.04-live-server-amd64.iso
