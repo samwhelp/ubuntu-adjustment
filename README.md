@@ -5,6 +5,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
+| [Ubuntu Note](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 
 
 > Ubuntu use gnome-shell as desktop environment. Please read [Ubuntu Gnome Shell Adjustment](https://samwhelp.github.io/ubuntu-gnome-shell-adjustment/).
@@ -14,13 +15,13 @@
 
 ## Subject
 
-* [Ubuntu Adjustment](#ubuntu-adjustment)
+* [Ubuntu Respin](#ubuntu-respin)
 * [Link](#link)
 
 
 
 
-## Link
+## Ubuntu Respin
 
 | Link | GitHub |
 | ---- | ------ |
