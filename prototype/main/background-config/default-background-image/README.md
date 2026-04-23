@@ -20,7 +20,7 @@
 
 | Ubuntu Package |
 | -------------- |
-| [mate-backgrounds](https://packages.ubuntu.com/noble/mate-backgrounds) |
+| [mate-backgrounds](https://packages.ubuntu.com/resolute/mate-backgrounds) |
 
 
 
