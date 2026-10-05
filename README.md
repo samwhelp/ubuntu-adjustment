@@ -27,15 +27,6 @@
 
 
 
-## Subject
-
-* [Script](#script)
-* [Ubuntu Respin](#ubuntu-respin)
-* [Link](#link)
-
-
-
-
 ## Script
 
 | Script |
@@ -101,3 +92,10 @@
 | [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
 | [Fedora Adjustment](https://samwhelp.github.io/fedora-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-adjustment) |
 | [Archlinux Adjustment](https://samwhelp.github.io/archlinux-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-adjustment) |
+
+
+
+
+## Samwhelp
+
+* [GitHub](https://github.com/samwhelp)
